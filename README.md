@@ -5,7 +5,7 @@
 **Source-line:** Origin | Continuum  
 **Repository:** AI Foundations Cannot Be Extended
 
-Release:
+Release: https://github.com/alyssadata/AI-Foundations-Cannot-Be-Extended/releases/tag/v1.0.0   
 Date: June 19, 2026
 
 ## Purpose
