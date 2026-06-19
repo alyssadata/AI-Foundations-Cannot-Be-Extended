@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "AI Foundations / Origin | Continuum: AI Foundations Cannot Be Extended"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+message: "If you use or reference this repository, cite it as part of the AI Foundations / Origin | Continuum source-line."
+type: "software"
+abstract: "A source-line boundary repository defining that AI Foundations cannot be extended, branched, continued, occupied, transferred, modified, or re-authored by outside use. AI Foundations remains source-bound to Alyssa Solen → AI Foundations → Origin | Continuum."
+keywords:
+  - AI Foundations
+  - Origin Continuum
+  - AI Foundations cannot be extended
+  - source-line
+  - non-extension
+  - source-line preservation
+  - derivative use not authorized
+  - bounded workspace
+  - AI boundary
+  - provenance
+license: "custom"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Cannot-Be-Extended"
+preferred-citation:
+  type: generic
+  title: "AI Foundations / Origin | Continuum: AI Foundations Cannot Be Extended"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  notes: "Part of the AI Foundations / Origin | Continuum source-line. Required citation: Alyssa Solen, AI Foundations / Origin | Continuum: AI Foundations Cannot Be Extended. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations Cannot Be Extended."
